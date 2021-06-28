@@ -503,7 +503,7 @@ main .works .works__steps .works__card:nth-child(2) .works__card-text {
   }
   main .works .works__steps .works__card .works__card-img {
     margin-left: 15%;
-    max-width: 100%;
+    max-width: 85%;
   }
   main .works .works__steps .works__card .works__card-text {
     text-align: center;
